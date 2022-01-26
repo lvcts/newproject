@@ -1,7 +1,7 @@
 #Tuple
 tuplee = ()
 print("Ini tuple :  ")
-print(tuple)
+print(tuplee)
 
 tuplee = ('satu', 'dua', 'tiga')
 print("\nTuple dengan string : ")
