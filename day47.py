@@ -5,7 +5,7 @@ def fungsi():
 fungsi()
 
  
-def fungsi1(x, y=50):
+def fungsi1(x, y=17):
     print("x: ", x)
     print("y: ", y)
 
