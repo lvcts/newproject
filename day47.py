@@ -11,15 +11,15 @@ def fungsi1(x, y=17):
 
 fungsi1(45)
 
-def student(kata1, kata2):
+def kata(kata1, kata2):
     print(kata1, kata2)
 
-student(kata1='Siti', kata2='Zahra Sala=ma')
-student(kata1='nurpadila', kata2='padila')
+kata(kata1='Siti', kata2='Zahra Salma')
+kata(kata1='Nurpadila', kata2='Padila')
 
-def myFun(x):
-    x[0] = 20
+def func(x):
+    x[1] = 9
  
-lst = [10, 11, 12, 13, 14, 15]
-myFun(lst)
-print(lst)
+listt = [10, 11, 12, 13, 14, 15]
+func(listt)
+print(listt)
