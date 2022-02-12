@@ -6,8 +6,8 @@ class taman_bunga():
         self.jenis = jenis
         taman_bunga.jumlah_bunga += 1
         
-    def berapa_jumlah():
-        print('Total Produk Kita: ', Produk.jumlah_bunga)
+
+
         
     def detail_produk(self):
         print("Nama : ", self.nama)
